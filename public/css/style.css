@@ -7,7 +7,7 @@
 .navdiv{
     display: flex;
     align-items: center; 
-    justify-content: space-between;
+    justify-content: space-around;
     border: none;
     padding: 20px;
     background-color: #003688;
